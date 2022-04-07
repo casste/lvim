@@ -13,7 +13,7 @@ lvim.log.level = "warn"
 lvim.format_on_save = true
 
 lvim.colorscheme = "material"
-vim.g.material_style = "darker"
+lvim.material_style = "darker"
 
 lvim.builtin.lualine.style = "default" -- or "none"
 
